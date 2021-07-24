@@ -1,0 +1,67 @@
+.post {
+  font-size: 20px;
+  margin: auto;
+  width: 600px;
+}
+.head{
+  font-size: 30px;
+  margin:auto;
+  border-bottom: dashed 2px;
+  width: 600px;
+  text-align: center;
+  padding-top: 30px;
+}
+.form-contents{
+  font-size: 20px;
+  text-align: center;
+}
+input{
+  width:300px;
+}
+*{
+  padding:0;
+  margin:0;
+  
+}
+.form{
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  padding-bottom: 30px;
+}
+.send, .del, .ed {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: dashed 1.5px;
+}
+.output-contents{
+  width: 1000px;
+  height: 100%;
+  border:1rem solid rgb(146, 231, 146);
+  margin: auto;
+  padding-bottom: 20px;
+  margin-top: 60px;
+}
+.pass{
+  width: 600px;
+  margin: auto;
+}
+.mess {
+  text-align: center;
+  margin: auto;
+  color: aquamarine;
+  font-size: 20px;
+}
+.mess2 {
+  text-align: center;
+  margin: auto;
+  color: red;
+  font-size: 30px;
+}
+h2 {
+  font-size: 34px;
+  color: rgb(68, 129, 68);
+  text-align: center;
+}
